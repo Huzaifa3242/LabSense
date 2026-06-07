@@ -1,0 +1,14 @@
+Lipid profile assessment includes total cholesterol, LDL, HDL, and triglycerides.
+
+- **Reference ranges (adult, fasting):**
+  - Total cholesterol: <200 mg/dL (desirable)
+  - LDL‑C: <100 mg/dL (optimal), 100‑129 mg/dL (near optimal), 130‑159 mg/dL (borderline high), 160‑189 mg/dL (high), ≥190 mg/dL (very high)
+  - HDL‑C: ≥60 mg/dL (protective), 40‑59 mg/dL (acceptable), <40 mg/dL (increased risk)
+  - Triglycerides: <150 mg/dL (normal), 150‑199 mg/dL (borderline high), 200‑499 mg/dL (high), ≥500 mg/dL (very high)
+
+- **Interpretation:**
+  - High LDL or low HDL suggests increased cardiovascular risk.
+  - Elevated triglycerides can be associated with metabolic syndrome, diabetes, or excessive alcohol intake.
+  - Values should be interpreted with patient risk factors (age, sex, smoking, blood pressure, etc.).
+
+- **Disclaimer:** Educational summary only; not a diagnostic conclusion.

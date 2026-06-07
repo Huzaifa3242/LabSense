@@ -1,0 +1,7 @@
+Thyroid‑stimulating hormone (TSH) regulates thyroid hormone production.
+
+- **Reference range (adult, fasting):** 0.4 – 4.0 µIU/mL (some labs: 0.5 – 5.0 µIU/mL).
+- **High TSH (>4.0 µIU/mL):** Suggests hypothyroidism; may present with fatigue, weight gain, cold intolerance.
+- **Low TSH (<0.4 µIU/mL):** Suggests hyperthyroidism; may present with tremor, weight loss, heat intolerance.
+- **Interpretation:** TSH alone is a screening tool; confirm abnormal results with Free T4/Free T3.
+- **Disclaimer:** Educational summary only; not a diagnostic conclusion.
